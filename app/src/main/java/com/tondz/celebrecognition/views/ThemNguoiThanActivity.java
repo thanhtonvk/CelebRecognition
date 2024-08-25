@@ -57,6 +57,7 @@ public class ThemNguoiThanActivity extends AppCompatActivity {
         init();
         onClick();
         reload();
+        checkPermissions();
 
     }
 
@@ -127,5 +128,13 @@ public class ThemNguoiThanActivity extends AppCompatActivity {
         rcvNguoiThan.setAdapter(nguoiThanAdapter);
         celebrecognitionSDK = new CelebSDK();
 
+    }
+
+    private void checkPermissions() {
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.READ_MEDIA_IMAGES)
+                != PackageManager.PERMISSION_GRANTED) {
+            ActivityCompat.requestPermissions(this,
+                    new String[]{android.Manifest.permission.READ_MEDIA_IMAGES}, 100);
+        }
     }
 }
