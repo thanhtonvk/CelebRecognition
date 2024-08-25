@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "51589792579",
+    "firebase_url": "https://quanlyphuongtien-22dd4-default-rtdb.firebaseio.com",
+    "project_id": "quanlyphuongtien-22dd4",
+    "storage_bucket": "quanlyphuongtien-22dd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51589792579:android:616ed71b6ae8abd45ba5f6",
+        "android_client_info": {
+          "package_name": "com.example.quanlyphuongtien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51589792579-rjkce0ee06v0pb021qnkfqmgkt5rd2ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQFJThZ_NNHuuK--UYq-Tqq9B8J2OL2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51589792579-rjkce0ee06v0pb021qnkfqmgkt5rd2ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51589792579:android:cebac088e4dbf9565ba5f6",
+        "android_client_info": {
+          "package_name": "com.tondz.celebrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51589792579-rjkce0ee06v0pb021qnkfqmgkt5rd2ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQFJThZ_NNHuuK--UYq-Tqq9B8J2OL2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51589792579-rjkce0ee06v0pb021qnkfqmgkt5rd2ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51589792579:android:8198c76821986a265ba5f6",
+        "android_client_info": {
+          "package_name": "com.tondz.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51589792579-rjkce0ee06v0pb021qnkfqmgkt5rd2ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQFJThZ_NNHuuK--UYq-Tqq9B8J2OL2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51589792579-rjkce0ee06v0pb021qnkfqmgkt5rd2ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
